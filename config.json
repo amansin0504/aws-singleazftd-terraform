@@ -1,0 +1,6 @@
+#Sensor
+{
+            "AdminPassword": "Admin123",
+            "Hostname": "FirepowerNGFWv",
+            "ManageLocally": "Yes",
+}
